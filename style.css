@@ -22,4 +22,5 @@ h2{
 }
 #hal{
     width: 400px;
+    box-sizing: border-box;
 }
