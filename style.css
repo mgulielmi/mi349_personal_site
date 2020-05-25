@@ -1,7 +1,7 @@
 body {
     background: #1e7da3;
     color: #ffffff;
-    padding: 50px;
+    padding: 60px;
     font-family: 'Courier New', Courier, monospace;;
 }
 
@@ -16,13 +16,11 @@ h2{
 #hello{
     color: rgb(157, 255, 0);
 }
-.burndown{
+.listy{
  background: #ada3a3;
  padding: 10px;   
 }
 #hal{
     width: 400px;
-    box-sizing: border-box;
-    padding: 5px;
-    color: #ffffff;
+
 }
