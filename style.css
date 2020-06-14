@@ -24,3 +24,9 @@ h2{
     width: 400px;
 
 }
+.box {
+    float: left;
+    width: 450px;
+    height: 200px;
+    margin-right: 30px;
+}
